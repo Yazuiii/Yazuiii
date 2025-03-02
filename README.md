@@ -4,7 +4,7 @@ I’m a learning developer, mainly focused since the beginning of 2024.
 
 ## About Me
 - 👨‍💻 I’m currently learning Lua.
-- 💬 You can reach me via Discord!
+- 💬 You can reach me via [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/905125475431645225)
 
 ## My Skills
 - 💻 **Languages**: 
@@ -22,4 +22,3 @@ I’m a learning developer, mainly focused since the beginning of 2024.
 
 - 🎮 **Other**: 
   ![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?style=flat&logo=discord&logoColor=white)
-
