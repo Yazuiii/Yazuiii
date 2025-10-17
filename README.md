@@ -20,3 +20,9 @@ I’m a learning developer, mainly focused since the beginning of 2024.
 
 - 🎮 **Other**: 
   ![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?style=flat&logo=discord&logoColor=white)
+  
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yazuiii&show_icons=true&locale=en&layout=compact" alt="Yazuiii" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yazuiii&label=Profile%20views&color=0e75b6&style=flat" alt="Yazuiii" /> </p>
